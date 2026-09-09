@@ -80,26 +80,14 @@ mateus = {
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman" />
 </p>
 
+---
+
 ## 🚀 Projetos em destaque
 
 ### 🕷️ Twitter Scraper
-Coletor automatizado desenvolvido em Python para extração, processamento e organização de dados provenientes do Twitter/X.
+Coletor automatizado desenvolvido em **Python** para extração, processamento e organização de dados provenientes do Twitter/X.
 
 **Tecnologias:** `Python` `Selenium` `Tweepy` `Automação`
-
----
-
-### 📊 Análise Demográfica
-Aplicação em Python para cálculo de indicadores demográficos, integração com Google Sheets e atualização automatizada de dados.
-
-**Tecnologias:** `Python` `Google Sheets API` `Automação` `Data Processing`
-
----
-
-### 📺 TV Indoor
-Plataforma SaaS de Digital Signage para gerenciamento de telas, campanhas, dispositivos e exibição de conteúdo em tempo real.
-
-**Tecnologias:** `React` `Node.js` `Express` `Firebase` `Firestore` `Tailwind CSS`
 
 ---
 
@@ -110,9 +98,25 @@ Coletor estruturado para captura e organização de dados do Kwai, com foco em a
 
 ---
 
+### 📊 Análise Demográfica
+Aplicação em Python para cálculo de indicadores demográficos, integração com Google Sheets e atualização automatizada de dados.
+
+**Tecnologias:** `Python` `Google Sheets API` `Automação` `Data Processing`
+
+[🔗 Ver projeto](https://github.com/teusdev7/analise-demografica-google-sheets)
+
+---
+
+### 📺 TV Indoor
+Plataforma SaaS de **Digital Signage** para gerenciamento de telas, campanhas, dispositivos e exibição de conteúdo em tempo real.
+
+**Tecnologias:** `React` `Node.js` `Express` `Firebase` `Firestore` `Tailwind CSS` `Vite`
+
+---
+
 ## 📈 Atividade no GitHub
 
-Aqui você encontra uma visão geral da minha atividade, linguagens mais utilizadas e evolução dos projetos que venho desenvolvendo.
+Uma visão geral da minha atividade, linguagens mais utilizadas e evolução dos projetos que venho desenvolvendo.
 
 <p align="center">
   <img height="170"
@@ -130,7 +134,7 @@ Aqui você encontra uma visão geral da minha atividade, linguagens mais utiliza
 
 Atualmente estou aprofundando meus conhecimentos e experiência em:
 
-- Desenvolvimento Back-end com Python
+- Desenvolvimento Back-end com **Python**
 - Automação de processos
 - Web Scraping e coleta de dados
 - Integração e consumo de APIs
@@ -149,7 +153,6 @@ Estou aberto a oportunidades, projetos e conexões profissionais nas áreas de d
   <a href="https://www.linkedin.com/in/mateus-fonseca-92a488261/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:theus9344@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -158,5 +161,3 @@ Estou aberto a oportunidades, projetos e conexões profissionais nas áreas de d
 <p align="center">
   <b>Desenvolvendo soluções que transformam processos, dados e ideias em software.</b>
 </p>
-
-
