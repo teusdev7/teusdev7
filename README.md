@@ -128,19 +128,6 @@ Uma visão geral da minha atividade, linguagens mais utilizadas e evolução dos
 </p>
 
 ---
-## 🎮 Dev Quest
-
-Um mini game visual profissional, integrado ao meu perfil, sem depender de GitHub Actions.  
-Ele representa minha jornada como desenvolvedor, com uma estética inspirada em interfaces de jogos e missões conectadas às minhas principais especialidades.
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/teusdev7/teusdev7/main/assets/dev-quest.svg" alt="Dev Quest mini game visual" />
-</p>
-
-<p align="center">
-  <sub>Visual customizado para destacar minha jornada em Python, automação, web scraping, APIs e desenvolvimento Full Stack.</sub>
-</p>
----
 
 ## 🎯 Foco atual
 
