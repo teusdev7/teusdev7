@@ -128,21 +128,16 @@ Uma visão geral da minha atividade, linguagens mais utilizadas e evolução dos
 </p>
 
 ---
+## 🎮 Dev Quest
 
-## 🐍 Contribution Game
-
-Uma animação dinâmica baseada no meu histórico real de contribuições no GitHub. A snake percorre o gráfico de atividades e transforma o histórico de commits em um elemento visual interativo do perfil.
+Um mini game visual profissional, integrado ao perfil, sem depender do GitHub Actions. Ele representa minha jornada como desenvolvedor, com uma estética inspirada em HUDs de jogos e missões ligadas às minhas principais especialidades.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teusdev7/teusdev7/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teusdev7/teusdev7/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/teusdev7/teusdev7/output/github-snake.svg" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/teusdev7/teusdev7/main/assets/dev-quest.svg" alt="Dev Quest mini game visual" />
 </p>
 
 <p align="center">
-  <sub>Atualizado automaticamente pelo GitHub Actions.</sub>
+  <sub>Visual customizado para destacar minha jornada em Python, automação, scraping, APIs e desenvolvimento Full Stack.</sub>
 </p>
 
 ---
