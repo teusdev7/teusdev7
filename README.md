@@ -129,6 +129,24 @@ Uma visão geral da minha atividade, linguagens mais utilizadas e evolução dos
 
 ---
 
+## 🐍 Contribution Game
+
+Uma animação dinâmica baseada no meu histórico real de contribuições no GitHub. A snake percorre o gráfico de atividades e transforma o histórico de commits em um elemento visual interativo do perfil.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teusdev7/teusdev7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teusdev7/teusdev7/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/teusdev7/teusdev7/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Atualizado automaticamente pelo GitHub Actions.</sub>
+</p>
+
+---
+
 ## 🎯 Foco atual
 
 Atualmente estou aprofundando meus conhecimentos e experiência em:
