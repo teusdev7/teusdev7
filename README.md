@@ -114,21 +114,6 @@ Plataforma SaaS de **Digital Signage** para gerenciamento de telas, campanhas, d
 
 ---
 
-## 📈 Atividade no GitHub
-
-Uma visão geral da minha atividade, linguagens mais utilizadas e evolução dos projetos que venho desenvolvendo.
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teusdev7&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teusdev7&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teusdev7&theme=github_dark" />
-</p>
-
----
-
 ## 🎯 Foco atual
 
 Atualmente estou aprofundando meus conhecimentos e experiência em:
